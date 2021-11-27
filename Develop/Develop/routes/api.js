@@ -1,6 +1,8 @@
 const router = require("express").Router();
 const Transaction = require("../models/transaction.js");
 
+
+
 router.post("/api/transaction", ({body}, res) => {
   Transaction.create(body)
     .then(dbTransaction => {
@@ -27,8 +29,11 @@ router.get("/api/transaction", (req, res) => {
       res.json(dbTransaction);
     })
     .catch(err => {
+      console.log(err)
       res.status(404).json(err);
     });
 });
 
 module.exports = router;
+
+// worked with a study group
