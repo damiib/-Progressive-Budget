@@ -1,8 +1,8 @@
 # -Progressive-Budget
 brown@MacBook-Pro ReadMe-Generator % npm.start
 ? What is the name of your project? Progressive-Budget
-? What is your GitHub user name? DamiiB
-? What is your email? damlbro013@gmail.com
+? What is your GitHub user name? Sheluvsdesign
+? What is your email? a@gmail.com
 ? Describe your project? The project is a budgeter, it tracks your finances.  You can add the name of the item that is being credited or subtracted.  Below the form there is a graph that shows your progress or decrease in finances.
 ? What are the installation instructions? I insta
 lled  mongoose, express, compression and morgan.
@@ -15,8 +15,8 @@ minal and type in npm start.  Then go to the localhost3000 server
 ng to your project? Nothing to know
 {
   title: 'Progressive Budget',
-  GitHub: 'DamiiB',
-  Email: 'damlbro013@gmail.com',
+  GitHub: 'Sheluvsdesign',
+  Email: 'a@gmail.com',
   description: 'This will help you organize your finances and keep you on top of your spending.
   installation: 'I installed mongoose, express,compression and morgan
   usage: 'none'
@@ -61,6 +61,6 @@ ng to your project? Nothing to know
 
   ## Questions
 
-  [damiib](https://github.com/damiib)
+  [sheluvsdesign](https://github.com/sheluvsdesign)
 
-If you have questions, please contact me at: damlbro013@gmail.com
+If you have questions, please contact me at: a@gmail.com
